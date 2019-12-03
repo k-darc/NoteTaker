@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created a full-stack application using MySql.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -11,5 +11,14 @@
   "dependencies": {
     "express": "^4.16.4",
     "mysql": "^2.16.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-darc/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/k-darc/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/k-darc/NoteTaker#readme"
 }

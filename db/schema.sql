@@ -1,13 +1,13 @@
-DROP DATABASE IF EXISTS note_db;
-CREATE DATABASE note_db;
+DROP DATABASE IF EXISTS notetaker_db;
+CREATE DATABASE notetaker_db;
 
-USE note_db;
+USE notetaker_db;
 
--- Create the notes table
-CREATE TABLE notes
-(
+drop table if exists notes;
+
+CREATE TABLE notes (
   id INT NOT NULL AUTO_INCREMENT,
-  text TEXT NOT NULL,
   title VARCHAR(255) NOT NULL,
-  PRIMARY KEY(id)
+  body TEXT NOT NULL,
+  PRIMARY KEY (id)
 );
