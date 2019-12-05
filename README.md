@@ -1,15 +1,19 @@
-# NoteTaker
+### Note Taker
 
-Created a full-stack application using MySql.
+Note Taker is a responsive, dynamic web app that allows users to create and delete custom notes.
 
-## Getting Started
+### Technologies used
+* Heroku
+* Javascript
+* jQuery
 
-Run `npm` install.
-Run `npm i` and download all modules. 
+### Installation
+- Run npm install.
 
-## Built With
+### How to use?
+1. Create note in input field.
+2. Add another note or delete.
 
-* VSCode
-* Express
-* MySQL/JawsDB
-* MomentJS
+### Credits
+Created by Kevin Darcy, 2019 - For Rutgers Coding Bootcamping, J. Han's class.
+
