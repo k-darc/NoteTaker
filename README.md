@@ -4,6 +4,7 @@ Note Taker is a responsive, dynamic web app that allows users to create and dele
 
 ### Technologies used
 * Heroku
+* MySQL
 * Javascript
 * jQuery
 
@@ -11,7 +12,7 @@ Note Taker is a responsive, dynamic web app that allows users to create and dele
 - Run npm install.
 
 ### How to use?
-1. Create note in input field.
+1. Create note in the input field.
 2. Add another note or delete.
 
 ### Credits
