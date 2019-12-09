@@ -10,6 +10,7 @@ Note Taker is a responsive, dynamic web app that allows users to create and dele
 
 ### Installation
 - Run npm install.
+Live Link - [NoteTaker](https://k-darc.github.io/NoteTaker/)
 
 ### How to use?
 1. Create note in the input field.
