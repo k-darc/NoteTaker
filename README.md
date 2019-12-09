@@ -1,4 +1,4 @@
-### Note Taker
+# Note Taker
 
 Note Taker is a responsive, dynamic web app that allows users to create and delete custom notes.
 
